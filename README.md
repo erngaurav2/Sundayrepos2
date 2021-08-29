@@ -1,2 +1,2 @@
 # Sundayrepos2
-Sunday practice Repos
+Sunday practice Repos for Git
